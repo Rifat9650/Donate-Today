@@ -36,10 +36,12 @@ section a {
 }
 .form {
     margin-bottom: -22px;
+    
   }
   input {
 	margin-top: 20px;
 	margin-bottom: 50px;
+    padding:10px;
 }
 .donate-plan{
     display:flex;
@@ -80,6 +82,15 @@ section a {
 }
 .updates button {
     background:rgb(255, 176, 176);
+    padding: 10px;
+}
+.register form {
+	text-align: center;
+	background-color: gainsboro;
+    width: 500px;
+    margin-left: 425px;
+    padding: 20px;
+    margin-top: 20px;
 }
 .footer {
 	text-align: center;
@@ -96,3 +107,4 @@ footer h3{
 footer p{
     color:white;
 }
+
